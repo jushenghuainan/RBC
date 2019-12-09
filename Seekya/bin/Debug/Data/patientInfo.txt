@@ -1,0 +1,12 @@
+htime
+advice
+height
+nation
+tel
+pay
+bnum
+NULL
+NULL
+NULL
+address
+mstate
